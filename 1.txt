@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 qqq
+=======
+hello word
+
+>>>>>>> new_test
